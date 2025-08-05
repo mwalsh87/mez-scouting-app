@@ -1,0 +1,1 @@
+# MEZ Scouting App\nWeb/mobile app for Michigan Engineering Zone match scouting.
